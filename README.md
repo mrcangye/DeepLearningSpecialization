@@ -3,7 +3,7 @@
 
 目前正在缓慢更新中
 
-文章使用typora+markdown编写。如果LaTex无法正常显示。建议使用typora打开查阅
+文章使用typora+markdown+Latex编写。如果LaTex无法正常显示。建议使用typora打开查阅
 
 如有疑惑欢迎提交issue
 
